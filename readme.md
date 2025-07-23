@@ -1,5 +1,7 @@
 # 📚 Estudio de Roles Básicos en Desarrollo Web y Móvil
 
+##  Recurso Usen el Link odicial para aprender git /github Todos 
+https://docs.github.com/es/get-started/start-your-journey/git-and-github-learning-resources
 ## 0) Integrantes del equipo de estudio y sus responsabilidades en el repositorio *(actualizar)*
 
 0. José Jiménez - josej@unsa.edu.pe  
