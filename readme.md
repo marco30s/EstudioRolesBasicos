@@ -287,31 +287,39 @@ El rol de QA es esencial en cualquier equipo de desarrollo serio, actuando como 
 ## 9) Links recomendados para capacitación Rol QA
 
 ## 10) Desarrollador Android
-# ¿Qué es?
+## ¿Qué es?
 
 ## Retos
 
 ## STACK DE TECNOLOGÍA
 
 1. **Lenguaje de PROGRAMACIÓN**
+   
    **Kotlin**: Oficial y recomendado por Google.  
    **Java**: Usado en proyectos antiguos.
 
-3. **Entorno de Desarrollo (IDE) Android Studio**:  
+3. **Entorno de Desarrollo (IDE)**
+   
+   **Android Studio**:  
    Completo, con emulador, depurador y herramientas de rendimiento.
 
-4. **UI y Frameworks Jetpack Compose**:  
+5. **UI y Frameworks**
+   
+   **Jetpack Compose**:  
    Para crear interfaces modernas.  
    **ViewModel + LiveData**: Manejo eficiente de estado y ciclo de vida.
 
-5. **Base de Datos Local Room**:  
-   Biblioteca moderna para persistencia local, parte de Jetpack.
+7. **Base de Datos Local**
+   
+   **Room**: Biblioteca moderna para persistencia local, parte de Jetpack.
 
-6. **Consumo de APIs Retrofit + Kotlin Coroutines**:  
-   Para llamadas HTTP y operaciones asíncronas.
+9. **Consumo de APIs**
+    
+    **Retrofit + Kotlin Coroutines**: Para llamadas HTTP y operaciones asíncronas.
 
-7. **Control de Versiones Git + GitHub**:  
-   Para gestionar código, historial y trabajo colaborativo.
+11. **Control de Versiones**
+    
+    **Git + GitHub**: Para gestionar código, historial y trabajo colaborativo.
 
 ## ESCALABILIDAD
 
