@@ -4,7 +4,7 @@
 https://docs.github.com/es/get-started/start-your-journey/git-and-github-learning-resources
 ## 0) Integrantes del equipo de estudio y sus responsabilidades en el repositorio *(actualizar)*
 
-0. José Jiménez - josej@unsa.edu.pe  
+
 1. Linares Taco Viviana Flobele vlinares@unsa.edu.pe
 2. Mendoza Larico Delaney Dariana 
 3. María
@@ -12,7 +12,7 @@ https://docs.github.com/es/get-started/start-your-journey/git-and-github-learnin
 5. Molina soncco, Percy - pmolinaso@unsa.edu.pe
 6. David Jose Luis Mendoza Taco - dmendozat@unsa.edu.pe
 7. Quispe Balcon Martha Beatriz - mquispebal@unsa.edu.pe
-...  
+8. Valdivia Flores Manuel Djins - mvaldiviaf@unsa.edu.pe 
 12. 
 
 ## 1) Conceptos Generales para tener en cuenta
