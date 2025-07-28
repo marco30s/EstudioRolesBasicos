@@ -28,7 +28,7 @@ Describiremos cómo nos sirve localmente para poder versionar nuestro software.
 **Roles básicos en el desarrollo de aplicaciones web y aplicación móvil**
 
 ## 4) Desarrollador Frontend
-- Descripción del rol  
+- Crea interfaces atractivas y responsivas (adaptables a distintos dispositivos), garantizar una buena experiencia de usuario (UX/UI), conectar con el backend mediante APIs para mostrar datos dinámicos, y optimizar el rendimiento y accesibilidad de la web. 
 - Habilidades requeridas  
 - Relación con roles de backend, QA, Desarrollador Android  
 - Stack tecnológico:  
