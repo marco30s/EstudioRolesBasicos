@@ -6,7 +6,7 @@ https://docs.github.com/es/get-started/start-your-journey/git-and-github-learnin
 
 0. José Jiménez - josej@unsa.edu.pe  
 1. Linares Taco Viviana Flobele vlinares@unsa.edu.pe
-2. Mendoza Larico Delaney Dariana 
+2. Mendoza Larico Delaney Dariana dmendozala@unsa.edu.pe
 3. María
 4. Motta Medina, Brayan Teodoro - bmottam@unsa.edu.pe
 5. Molina soncco, Percy - pmolinaso@unsa.edu.pe
@@ -32,10 +32,10 @@ Describiremos cómo nos sirve localmente para poder versionar nuestro software.
 
 ## 4) Desarrollador Frontend
 - Crea interfaces atractivas y responsivas (adaptables a distintos dispositivos), garantizar una buena experiencia de usuario (UX/UI), conectar con el backend mediante APIs para mostrar datos dinámicos, y optimizar el rendimiento y accesibilidad de la web. 
-- Habilidades requeridas  
+- Se requiere conocimientos HTML5, CSS3, JavaScript (ES6+), React, Git, Responsive Design, APIs REST, Webpack, TypeScript, Testing (Jest/Cypress), Accesibilidad (WCAG).
 - Relación con roles de backend, QA, Desarrollador Android  
 - Stack tecnológico:  
-  - Lenguajes  
+  - HTML,CSS,Java Script  
   - Frameworks  
 
 ## 5) Links recomendados para capacitación Rol Frontend
