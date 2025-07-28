@@ -665,43 +665,64 @@ Permite escalar la interfaz a múltiples dispositivos y diseños.
 
 
 ## 11) Links recomendados para capacitación Rol Android
-🔹 Sin certificaciones
+## 🔹 Sin certificaciones
 
-• Developer Android - Documentación oficial (Android Developers): Referencia principal para desarrollo Android (Kotlin, Jetpack, UI, herramientas, etc).https://developer.android.com
+- **Developer Android - Documentación oficial (Android Developers)**: Referencia principal para desarrollo Android (Kotlin, Jetpack, UI, herramientas, etc).  
+  https://developer.android.com
 
-• Vogella: Tutoriales técnicos muy completos sobre Android, Java y herramientas relacionadas.https://www.vogella.com/tutorials/android.html
+- **Vogella**: Tutoriales técnicos muy completos sobre Android, Java y herramientas relacionadas.  
+  https://www.vogella.com/tutorials/android.html
 
-• CodePath Android: Guías y recursos gratuitos sobre desarrollo Android moderno.https://guides.codepath.org/android
+- **CodePath Android**: Guías y recursos gratuitos sobre desarrollo Android moderno.  
+  https://guides.codepath.org/android
 
-• Raywenderlich: Tutoriales paso a paso y artículos sobre Kotlin, Android, Jetpack Compose y más.https://www.raywenderlich.com/android
+- **Raywenderlich**: Tutoriales paso a paso y artículos sobre Kotlin, Android, Jetpack Compose y más.  
+  https://www.raywenderlich.com/android
 
-• Kotlinlang.org: Documentación oficial y tutoriales del lenguaje Kotlin.https://kotlinlang.org/docs/home.html
+- **Kotlinlang.org**: Documentación oficial y tutoriales del lenguaje Kotlin.  
+  https://kotlinlang.org/docs/home.html
 
-🔹 Con certificación:
+---
 
-• Google Android Developer Certification (via Google/Udacity): Curso oficial para obtener la certificación de Android Developer por Google.https://developer.android.com/certification
+## 🔹 Con certificación
 
-• Coursera: Cursos especializados como "Android App Development with Kotlin" (by Vanderbilt) o "Meta Android Developer Professional Certificate".https://www.coursera.org
+- **Google Android Developer Certification (via Google/Udacity)**: Curso oficial para obtener la certificación de Android Developer por Google.  
+  https://developer.android.com/certification
 
-• Udacity: Cursos creados con Google, como "Developing Android Apps with Kotlin".https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012
+- **Coursera**: Cursos especializados como "Android App Development with Kotlin" (by Vanderbilt) o "Meta Android Developer Professional Certificate".  
+  https://www.coursera.org
 
-• edX: Programas como “Android App Development” por universidades como GalileoX o Universidad Autónoma de Madrid.https://www.edx.org
+- **Udacity**: Cursos creados con Google, como "Developing Android Apps with Kotlin".  
+  https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012
 
-🔷 Proyectos completos de ejemplo:
+- **edX**: Programas como “Android App Development” por universidades como GalileoX o Universidad Autónoma de Madrid.  
+  https://www.edx.org
 
-• GitHub: Repositorios con proyectos Android listos (buscar: android-sample, android-jetpack, awesome-android).https://github.com
+---
 
-• Android Weekly: Boletín con artículos, tutoriales y proyectos destacados de la semana.https://androidweekly.net
+## 🔷 Proyectos completos de ejemplo
 
-• CodePen y Replit: Aunque menos usados en Android, pueden servir para practicar lógica en Kotlin.https://replit.com
+- **GitHub**: Repositorios con proyectos Android listos (buscar: `android-sample`, `android-jetpack`, `awesome-android`).  
+  https://github.com
 
-🔷 Recomendadas por líderes (Google, JetBrains, etc):
+- **Android Weekly**: Boletín con artículos, tutoriales y proyectos destacados de la semana.  
+  https://androidweekly.net
 
-• Google Codelabs: Laboratorios paso a paso sobre Android con Jetpack, Kotlin, Firebase, etc.https://developer.android.com/codelabs
+- **CodePen y Replit**: Aunque menos usados en Android, pueden servir para practicar lógica en Kotlin.  
+  https://replit.com
 
-• JetBrains Academy: Curso interactivo de Kotlin con proyectos reales.https://www.jetbrains.com/academy
+---
 
-• Firebase Docs: Integración de backend en apps Android (auth, firestore, storage, etc).https://firebase.google.com/docs
+## 🔷 Recomendadas por líderes (Google, JetBrains, etc)
+
+- **Google Codelabs**: Laboratorios paso a paso sobre Android con Jetpack, Kotlin, Firebase, etc.  
+  https://developer.android.com/codelabs
+
+- **JetBrains Academy**: Curso interactivo de Kotlin con proyectos reales.  
+  https://www.jetbrains.com/academy
+
+- **Firebase Docs**: Integración de backend en apps Android (auth, firestore, storage, etc).  
+  https://firebase.google.com/docs
 
 ## 12) Pasos a Desarrollar  
 1. **Integrante 0** crea repositorio remoto: `EstudioRolesBasicos`  
