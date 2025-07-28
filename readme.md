@@ -5,7 +5,7 @@ https://docs.github.com/es/get-started/start-your-journey/git-and-github-learnin
 ## 0) Integrantes del equipo de estudio y sus responsabilidades en el repositorio *(actualizar)*
 
 0. José Jiménez - josej@unsa.edu.pe  
-1. Luis  
+1. Linares Taco Viviana Flobele vlinares@unsa.edu.pe
 2. Mendoza Larico Delaney Dariana 
 3. María  
 ...  
