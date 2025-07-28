@@ -45,7 +45,13 @@ Describiremos cómo nos sirve localmente para poder versionar nuestro software.
 - freeCodeCamp https://www.freecodecamp.org/
     
 🔹 **Con certificación**:  
-- Coursera https://www.coursera.org/
+- Coursera: Cursos y especializaciones de universidades/empresas (ej: Meta Front-End Developer). https://www.coursera.org/
+
+- edX: Cursos de universidades de prestigio (ej: CS50 Web Programming). https://www.edx.org/
+
+- Udemy: Amplia variedad de cursos individuales (busca los mejor valorados). https://www.udemy.com/
+
+- Platzi: Rutas de aprendizaje completas (Escuela de Desarrollo Web, JavaScript, React.js). https://platzi.com/
     
 🔹 **Proyectos completos de ejemplo**:  
 🔹 **Recomendadas por líderes (Microsoft, AWS, Google)**:  
