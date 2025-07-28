@@ -10,6 +10,8 @@ https://docs.github.com/es/get-started/start-your-journey/git-and-github-learnin
 3. María
 4. Motta Medina, Brayan Teodoro - bmottam@unsa.edu.pe
 5. Molina soncco, Percy - pmolinaso@unsa.edu.pe
+6. .
+7. Quispe Balcon Martha Beatriz - mquispebal@unsa.edu.pe
 ...  
 12. 
 
