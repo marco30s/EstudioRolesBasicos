@@ -12,7 +12,7 @@ https://docs.github.com/es/get-started/start-your-journey/git-and-github-learnin
 5. Molina soncco, Percy - pmolinaso@unsa.edu.pe
 6. Mendoza Taco David Jose Luis  - dmendozat@unsa.edu.pe - Desarrollador Backend
 7. Quispe Balcon Martha Beatriz - mquispebal@unsa.edu.pe
-8. Valdivia Flores Manuel Djins - mvaldiviaf@unsa.edu.pe
+8. Valdivia Flores Manuel Djins - mvaldiviaf@unsa.edu.pe - Desarrollador Backend
 9. Cruz Kana Pamela Greis - pcruzk@unsa.edu.pe 
 12. 
 
