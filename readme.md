@@ -7,7 +7,7 @@ https://docs.github.com/es/get-started/start-your-journey/git-and-github-learnin
 
 1. Linares Taco Viviana Flobele vlinares@unsa.edu.pe
 2. Mendoza Larico Delaney Dariana dmendozala@unsa.edu.pe
-3. María
+3. Martel Gallegos Alexandra - amartelg@unsa.edu.pe
 4. Motta Medina, Brayan Teodoro - bmottam@unsa.edu.pe
 5. Molina soncco, Percy - pmolinaso@unsa.edu.pe
 6. David Jose Luis Mendoza Taco - dmendozat@unsa.edu.pe
@@ -300,8 +300,91 @@ El rol de QA es esencial en cualquier equipo de desarrollo serio, actuando como 
 
 ## 10) Desarrollador Android
 ## ¿Qué es?
+Android es un sistema operativo basado en Linux diseñado principalmente para dispositivos móviles con pantalla táctil, como smartphones y tabletas.
+Fue desarrollado por Google y es el sistema operativo móvil más utilizado en el mundo.
+
+**Características principales:**
+Es de código abierto, lo que permite a fabricantes y desarrolladores personalizarlo.
+Permite crear aplicaciones nativas usando Java o Kotlin.
+Ofrece acceso a funcionalidades del dispositivo como cámara, GPS, sensores y almacenamiento.
+Su tienda de aplicaciones es Google Play Store.
 
 ## Retos
+**01. Fragmentación**
+¿Qué significa?
+Android funciona en miles de modelos con diferentes características:
+- Tamaños y resoluciones de pantalla.
+- Distintos niveles de hardware (procesador, RAM).
+- Versiones variadas de Android (de Android 8 a Android 13).
+- Interfaces modificadas por los fabricantes (Samsung, Xiaomi, etc.).
+
+¿Por qué es un reto?
+Diseñar una app que funcione correctamente en todos los dispositivos es difícil.
+Requiere:
+- Diseños responsivos.
+- Pruebas en varios dispositivos reales y simuladores.
+
+Ejemplo: Una app que se ve bien en un Pixel puede fallar en un Samsung de gama baja.
+
+**02. Gestión de permisos**
+¿Qué significa?
+Desde Android 6.0, los permisos se solicitan en tiempo de uso, no al instalar la app (como antes).
+
+¿Por qué es un reto?
+- El usuario puede rechazar permisos.
+- La app debe funcionar sin fallar y explicar por qué necesita ese permiso.
+
+Requiere:
+- Mostrar un mensaje explicativo (rationale).
+- Soportar reintentos sin bloquear la app.
+Ejemplo: Si el usuario rechaza el permiso de cámara, la app debe avisar y seguir funcionando.
+
+**03. Seguridad**
+¿Qué significa?
+Android es muy usado y es blanco frecuente de:
+Malware, phishing y vulnerabilidades.
+
+¿Por qué es un reto?
+- Se deben proteger los datos sensibles.
+- Cumplir con políticas de Google Play.
+
+Requiere:
+- Cifrar contraseñas y tokens.
+- Validar entradas de usuario.
+- Firmar el APK correctamente.
+
+Ejemplo: Si no se cifra la base de datos local, otras apps pueden robar información si el dispositivo está rooteado.
+
+**04. Rendimiento y consumo de batería**
+¿Qué significa?
+- Apps mal optimizadas consumen recursos:
+- RAM.
+- Procesador.
+- Batería.
+
+¿Por qué es un reto?
+Una app lenta o pesada da mala experiencia al usuario.
+
+Requiere:
+- Usar WorkManager para tareas en segundo plano.
+- Liberar recursos no usados.
+- Optimizar imágenes y datos.
+
+Ejemplo: Una app que sincroniza datos constantemente puede agotar la batería rápido.
+
+**05. Conectividad**
+¿Qué significa?
+Muchas apps dependen de internet, pero no todos los usuarios tienen buena conexión.
+
+¿Por qué es un reto?
+La app debe funcionar con red lenta o sin conexión.
+
+Requiere:
+- Detectar desconexiones.
+- Sincronizar cuando vuelva la red.
+- Mostrar mensajes claros.
+
+Ejemplo: Si se corta la red mientras se descargan datos, la app debe guardar en caché y reintentar más tarde.
 
 ## STACK DE TECNOLOGÍA
 
