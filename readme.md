@@ -9,6 +9,8 @@ https://docs.github.com/es/get-started/start-your-journey/git-and-github-learnin
 2. Mendoza Larico Delaney Dariana 
 3. María
 4. Motta Medina, Brayan Teodoro - bmottam@unsa.edu.pe
+5. .
+6. Quispe Balcon Martha Beatriz - mquispebal@unsa.edu.pe
 ...  
 12. 
 
