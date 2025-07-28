@@ -24,10 +24,10 @@ Git es una herramienta fundamental en el desarrollo de software que actúa como 
 - **Seguimiento de Cambios (Versioning)**
   - Registro Histórico: Cada vez que "comiteamos" (commit) nuestros cambios, Git guarda una instantánea del proyecto en ese momento. Esto crea un registro inmutable de la evolución de nuestro código.
 Cada commit incluye metadatos como el autor del cambio, la fecha y hora, y un mensaje descriptivo que explica qué se hizo. Esto es crucial para entender el desarrollo del proyecto.
-- **Rastreo y Reversión de Modificaciones*
+- **Rastreo y Reversión de Modificaciones**
   - Podemos ver exactamente qué líneas de código se han añadido, modificado o eliminado entre cualquier versión (commit).
   - Si introducimos un error o una funcionalidad que no funciona, podemos revertir el proyecto a un estado anterior (a cualquier commit pasado) de forma segura y sencilla, sin perder el trabajo intermedio.
-- **Gestión de Ramas (Branching)*
+- **Gestión de Ramas (Branching)**
   - Git nos permite crear "ramas" (branches) locales. Una rama es una copia aislada de nuestro proyecto en un punto específico. Esto es ideal para desarrollar nuevas características o probar ideas sin afectar la rama principal (generalmente main o master).
   - Una vez que una rama de trabajo está lista y probada, podemos fusionar (merge) sus cambios de vuelta a la rama principal.
 - **Colaboración Individual (Preparación para el Entorno Remoto)**
