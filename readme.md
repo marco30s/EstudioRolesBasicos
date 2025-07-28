@@ -14,7 +14,7 @@ https://docs.github.com/es/get-started/start-your-journey/git-and-github-learnin
 7. Quispe Balcon Martha Beatriz - mquispebal@unsa.edu.pe
 8. Valdivia Flores Manuel Djins - mvaldiviaf@unsa.edu.pe
 9. Cruz Kana Pamela Greis - pcruzk@unsa.edu.pe 
-12. 
+12. Salas Zegarra Marco Antonio - msalasze@unsa.edu.pe
 
 ## 1) Conceptos Generales para tener en cuenta
 En el contexto de desarrollo web y móvil: diferencias entre librerías, frameworks y patrones de diseño.
