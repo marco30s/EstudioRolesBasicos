@@ -802,29 +802,5 @@ flowchart LR
 
 **Nota**: GitHub soporta ambos, pero verifica si tu plataforma (como Slack o GitLab) también renderiza Mermaid.
 
-MERMAID DEL PROYECTO:
----
-config:
-  layout: dagre
----
-flowchart TD
-    A["Programación"] --> B["Frontend"] & C["Backend"] & D["Android"] & E["Quality & A"]
-    B --> F["CSS"] & G["HTML"] & n2["Java Script"]
-    C --> n1["Rutas"] & n8["Controladores"] & n13["Base de Datos"]
-    D --> n3["Curso Kotlin Platzi"] & n4["Microsoft Learn"]
-    E --> n5["Untitled Node"]
-    click A "https://developer.mozilla.org/es/docs/Web/HTML"
-    click B "https://www.canva.com/design/DAGtMQ3AYMQ/pLPHPvi2M1KuNY3SXel7Xw/edit?utm_content=DAGtMQ3AYMQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
-    click C "https://gamma.app/docs/Backend-en-Programacion-Web-El-Motor-Oculto-45ylg348bflrq98"
-    click D "https://developer.mozilla.org/es/docs/Web/JavaScript"
-    click E "https://developer.mozilla.org/es/docs/Learn/HTML/Introduction_to_HTML"
-    click F "https://developer.mozilla.org/es/docs/Learn/CSS/First_steps"
-    click G "https://www.w3schools.com/html/default.asp"
-    click n2 "https://developer.mozilla.org/es/docs/Web/JavaScript"
-    click n1 "🔗 https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Server-side/Express_Nodejs/routes"
-    click n8 "https://platzi.com/cursos/nodejs-mongo-websockets/conceptualmente-rutas-controladores-y-bases-de-dat/"
-    click n13 "https://www.programando.org/blog/2022/03/06/el-camino-del-backend-developer-bases-de-datos/"
-    click n3 "https://platzi.com/cursos/kotlin/"
-    click n4 "https://learn.microsoft.com/en-us/training/"
-    click n5 "https://example.com/"
+
 
