@@ -47,6 +47,7 @@ Cada commit incluye metadatos como el autor del cambio, la fecha y hora, y un me
 - Crea interfaces atractivas y responsivas (adaptables a distintos dispositivos), garantizar una buena experiencia de usuario (UX/UI), conectar con el backend mediante APIs para mostrar datos dinámicos, y optimizar el rendimiento y accesibilidad de la web.
 ☞ Habilidades Requeridas: 
 - Se requiere conocimientos HTML5, CSS3, JavaScript (ES6+), React, Git, Responsive Design, APIs REST, Webpack, TypeScript, Testing (Jest/Cypress), Accesibilidad (WCAG).
+  
 ■ Relación con Backend (datos):
 
    El Frontend consume APIs (REST/GraphQL) proporcionadas por el Backend para mostrar datos dinámicos.
@@ -61,19 +62,19 @@ Cada commit incluye metadatos como el autor del cambio, la fecha y hora, y un me
   
 ■ Relación con Android (experiencia móvil, si es un equipo multi-plataforma):
 
-   ➤ Si el equipo desarrolla una aplicación híbrida.
+     ➤ Si el equipo desarrolla una aplicación híbrida.
    
-   ➤ El Frontend y el Android pueden trabajar con el mismo código.
+     ➤ El Frontend y el Android pueden trabajar con el mismo código.
    
-   ➤ En proyectos separados (web + app nativa), ambos deben mantener consistencia en UX/UI (mismos colores, flujos, etc.).
+     ➤ En proyectos separados (web + app nativa), ambos deben mantener consistencia en UX/UI (mismos colores, flujos, etc.).
    
 ■ Relación con QA (calidad y coherencia):
 
-   ➤ Prueba la interfaz del Frontend (web) en busca de errores:
+     ➤ Prueba la interfaz del Frontend (web) en busca de errores:
    
-   ➤ Funcionales: Botones que no responden, formularios rotos.
+     ➤ Funcionales: Botones que no responden, formularios rotos.
    
-   ➤ Rendimiento: Lentitud al cargar datos desde el Backend.
+     ➤ Rendimiento: Lentitud al cargar datos desde el Backend.
    
 ☞ Stack tecnológico:  
 
