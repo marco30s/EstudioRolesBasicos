@@ -21,16 +21,16 @@ En el contexto de desarrollo web y móvil: diferencias entre librerías, framewo
 
 ## 2) Conociendo Git
 Git es una herramienta fundamental en el desarrollo de software que actúa como un sistema de control de versiones distribuido. A nivel local, Git nos permite mantener un historial completo de cada cambio que realizamos en nuestro código, incluso sin necesidad de estar conectados a un repositorio remoto (como GitHub o GitLab).
-- Seguimiento de Cambios (Versioning):
+- **Seguimiento de Cambios (Versioning)**
   - Registro Histórico: Cada vez que "comiteamos" (commit) nuestros cambios, Git guarda una instantánea del proyecto en ese momento. Esto crea un registro inmutable de la evolución de nuestro código.
 Cada commit incluye metadatos como el autor del cambio, la fecha y hora, y un mensaje descriptivo que explica qué se hizo. Esto es crucial para entender el desarrollo del proyecto.
-- Rastreo y Reversión de Modificaciones:
+- **Rastreo y Reversión de Modificaciones*
   - Identificación de Cambios: Podemos ver exactamente qué líneas de código se han añadido, modificado o eliminado entre cualquier versión (commit).
   - Deshacer Errores: Si introducimos un error o una funcionalidad que no funciona, podemos revertir el proyecto a un estado anterior (a cualquier commit pasado) de forma segura y sencilla, sin perder el trabajo intermedio.
-- Gestión de Ramas (Branching):
+- **Gestión de Ramas (Branching)*
   - Experimentación Segura: Git nos permite crear "ramas" (branches) locales. Una rama es una copia aislada de nuestro proyecto en un punto específico. Esto es ideal para desarrollar nuevas características o probar ideas sin afectar la rama principal (generalmente main o master).
   - Fusión de Trabajo: Una vez que una rama de trabajo está lista y probada, podemos fusionar (merge) sus cambios de vuelta a la rama principal.
-- Colaboración Individual (Preparación para el Entorno Remoto):
+- **Colaboración Individual (Preparación para el Entorno Remoto)**
   - Aunque el uso de repositorios remotos es para la colaboración en equipo, tener un dominio sólido de Git localmente es el primer paso. Nos prepara para subir nuestros cambios, sincronizarnos con otros y resolver conflictos cuando trabajamos en equipo.
 
 ## 3) Conociendo Github  
