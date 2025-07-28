@@ -2,11 +2,11 @@
 
 ##  Recurso Usen el Link odicial para aprender git /github Todos 
 https://docs.github.com/es/get-started/start-your-journey/git-and-github-learning-resources
-## 0) Integrantes del equipo de estudio y sus responsabilidades en el repositorio *(actualizar)*
+## 0) Integrantes del equipo de estudio y sus responsabilidades en el repositorio:
 
 
-1. Linares Taco Viviana Flobele vlinares@unsa.edu.pe
-2. Mendoza Larico Delaney Dariana dmendozala@unsa.edu.pe
+1. Linares Taco Viviana Flobele - vlinares@unsa.edu.pe
+2. Mendoza Larico Delaney Dariana - dmendozala@unsa.edu.pe
 3. Martel Gallegos Alexandra - amartelg@unsa.edu.pe
 4. Motta Medina, Brayan Teodoro - bmottam@unsa.edu.pe
 5. Molina soncco, Percy - pmolinaso@unsa.edu.pe
@@ -62,19 +62,19 @@ Cada commit incluye metadatos como el autor del cambio, la fecha y hora, y un me
   
 ■ Relación con Android (experiencia móvil, si es un equipo multi-plataforma):
 
-     ➤ Si el equipo desarrolla una aplicación híbrida.
+  ➤ Si el equipo desarrolla una aplicación híbrida.
    
-     ➤ El Frontend y el Android pueden trabajar con el mismo código.
+  ➤ El Frontend y el Android pueden trabajar con el mismo código.
    
-     ➤ En proyectos separados (web + app nativa), ambos deben mantener consistencia en UX/UI (mismos colores, flujos, etc.).
+  ➤ En proyectos separados (web + app nativa), ambos deben mantener consistencia en UX/UI (mismos colores, flujos, etc.).
    
 ■ Relación con QA (calidad y coherencia):
 
-     ➤ Prueba la interfaz del Frontend (web) en busca de errores:
+  ➤ Prueba la interfaz del Frontend (web) en busca de errores:
    
-     ➤ Funcionales: Botones que no responden, formularios rotos.
+  ➤ Funcionales: Botones que no responden, formularios rotos.
    
-     ➤ Rendimiento: Lentitud al cargar datos desde el Backend.
+  ➤ Rendimiento: Lentitud al cargar datos desde el Backend.
    
 ☞ Stack tecnológico:  
 
