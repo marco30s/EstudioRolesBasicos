@@ -200,6 +200,50 @@ Prueba tu API con Postman o curl.
 Sube tu app a la nube (Heroku, Vercel, Render, AWS).
 
 ## 7) Links recomendados para capacitación Rol Backend
+🔹 Sin certificaciones (gratuitos, prácticos)
+freeCodeCamp (APIs y microservicios)
+https://www.freecodecamp.org/learn/back-end-development-and-apis/
+
+MDN Web Docs (HTTP, servidores, etc.)
+https://developer.mozilla.org/en-US/docs/Web/HTTP
+
+Backend Developer Roadmap
+https://roadmap.sh/backend
+
+Node.js Tutorial
+https://nodejs.dev/en/learn/
+
+🔹 Con certificación
+Coursera (Meta, IBM, etc.)
+https://www.coursera.org/
+
+edX (Harvard, MIT, etc.)
+https://www.edx.org/learn/backend-development
+
+Udemy – Cursos como Node.js, Java Spring Boot, Django
+https://www.udemy.com/
+
+🔹 Proyectos completos de ejemplo
+Node.js Bootcamp (GitHub)
+https://github.com/Mohammed-Taysser/Nodejs-Bootcamp
+
+The Odin Project – Backend Node.js
+https://www.theodinproject.com/paths/full-stack-javascript
+
+App Ideas Collection (para portafolio)
+https://github.com/florinpop17/app-ideas
+
+🔹 Recomendadas por líderes (Microsoft, AWS, Google)
+Microsoft Learn (C#, .NET, Azure)
+https://learn.microsoft.com/en-us/training/
+
+AWS Backend con Serverless & Lambda
+https://explore.skillbuilder.aws/
+
+Google Cloud Skills Boost (Backends escalables)
+https://www.cloudskillsboost.google/
+
+
 
 ## 8) Rol QA
 El Rol de QA (Quality Assurance): Garantizando la Calidad del Software
