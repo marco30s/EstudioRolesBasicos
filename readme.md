@@ -63,6 +63,13 @@ Describiremos cómo nos sirve localmente para poder versionar nuestro software.
 - CodePen: Entorno online para prototipar y compartir código. https://codepen.io/
 
 🔹 **Recomendadas por líderes (Microsoft, AWS, Google)**:  
+- Google Developers (web.dev): Guías de rendimiento web y herramientas. https://web.dev/
+
+- Microsoft Learn: Rutas de aprendizaje sobre HTML, CSS, JS, React, Angular. https://learn.microsoft.com/en-us/
+
+- AWS Amplify Docs: Tutoriales para integrar Frontend con la nube. https://aws.amazon.com/amplify/
+
+- React.dev (Meta): Documentación oficial del framework React. https://react.dev/
 
 ## 6) Desarrollador Backend
 💡 ¿Qué es el Backend?
