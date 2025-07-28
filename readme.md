@@ -12,7 +12,8 @@ https://docs.github.com/es/get-started/start-your-journey/git-and-github-learnin
 5. Molina soncco, Percy - pmolinaso@unsa.edu.pe
 6. David Jose Luis Mendoza Taco - dmendozat@unsa.edu.pe
 7. Quispe Balcon Martha Beatriz - mquispebal@unsa.edu.pe
-8. Valdivia Flores Manuel Djins - mvaldiviaf@unsa.edu.pe 
+8. Valdivia Flores Manuel Djins - mvaldiviaf@unsa.edu.pe
+9. Cruz Kana Pamela Greis - pcruzk@unsa.edu.pe 
 12. 
 
 ## 1) Conceptos Generales para tener en cuenta
