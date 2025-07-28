@@ -41,10 +41,11 @@ Describiremos cómo nos sirve localmente para poder versionar nuestro software.
 ## 5) Links recomendados para capacitación Rol Frontend
 *(Separados por criterios)*  
 🔹 **Sin certificaciones**:  
-    - freeCodeCamp https://www.freecodecamp.org/
+- freeCodeCamp https://www.freecodecamp.org/
     
 🔹 **Con certificación**:  
-    - Coursera https://www.coursera.org/
+- Coursera https://www.coursera.org/
+    
 🔹 **Proyectos completos de ejemplo**:  
 🔹 **Recomendadas por líderes (Microsoft, AWS, Google)**:  
 
