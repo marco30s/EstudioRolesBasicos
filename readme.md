@@ -19,46 +19,34 @@ https://docs.github.com/es/get-started/start-your-journey/git-and-github-learnin
 ## 1) Conceptos Generales para tener en cuenta
 Cuando desarrollamos aplicaciones, ya sea para web o dispositivos móviles, usamos distintas herramientas que nos ayudan a trabajar más rápido y con mejor estructura. Entre estas herramientas están las librerías, los frameworks y los patrones de diseño, y aunque a veces se confunden, en realidad son cosas distintas.
 
-📚 ¿Qué es una librería?
+¿QUÉ ES UNA LIBRERÍA?
 Una librería es como una caja de herramientas: ya viene con funciones listas que puedes usar cuando las necesites. Tú decides en qué momento y cómo las usas dentro de tu código.
-
-Ejemplos en web: jQuery (para manejar el DOM), Axios (para hacer peticiones HTTP).
-
-Ejemplos en apps móviles: Glide (para cargar imágenes en Android), Alamofire (para redes en iOS).
-
+-Ejemplos en web: jQuery (para manejar el DOM), Axios (para hacer peticiones HTTP).
+-Ejemplos en apps móviles: Glide (para cargar imágenes en Android), Alamofire (para redes en iOS).
 En resumen: una librería te ayuda con tareas puntuales, pero tú tienes el control de todo lo demás.
 
-🧱 ¿Qué es un framework?
+¿QUÉ ES UN FRAMEWORK?
 Un framework es más grande que una librería. Es como si te dieran una base ya construida y tú tuvieras que seguir ciertas reglas para completar el resto. Aquí el que manda es el framework, porque ya viene con una estructura que tú tienes que respetar.
-
-Ejemplos en web: Angular, Vue, React (aunque muchos lo consideran librería, se usa como framework).
-
-Ejemplos en móvil: Flutter, React Native.
-
+-Ejemplos en web: Angular, Vue, React (aunque muchos lo consideran librería, se usa como framework).
+-Ejemplos en móvil: Flutter, React Native.
 En resumen: el framework te guía paso a paso para que sigas su forma de trabajar. Es más completo, pero también más estricto.
 
-🧩 ¿Qué son los patrones de diseño?
+¿QUÉ SON LOS PATRONES DE DISEÑO?
 Los patrones de diseño no son código listo para usar, sino formas recomendadas de organizar tu programa para que sea más ordenado y fácil de mantener. Son soluciones a problemas que pasan muy seguido en la programación.
-
 Ejemplos comunes:
-
-MVC (Modelo - Vista - Controlador)
-
-Singleton (una sola instancia de algo)
-
-Observer (algo se actualiza cuando otra cosa cambia)
-
-MVVM (usado en apps móviles con interfaces reactivas)
-
+-MVC (Modelo - Vista - Controlador)
+-Singleton (una sola instancia de algo)
+-Observer (algo se actualiza cuando otra cosa cambia)
+-MVVM (usado en apps móviles con interfaces reactivas)
 En resumen: los patrones te dan ideas de cómo organizar mejor tu código para que sea claro y escalable.
 
-📝 Diferencias claras
-Concepto	¿Quién controla el flujo?	¿Para qué sirve?	Ejemplos Web	Ejemplos Móvil
-Librería	Tú, el programador	Funciones específicas	jQuery, Axios	Glide, Alamofire
-Framework	El framework	Base para crear toda la app	Angular, Vue, React	Flutter, React Native
-Patrón de diseño	No aplica	Buena organización del código	MVC, Singleton	MVVM, Observer
+DIFERENCIAS:
+Concepto	              ¿Quién controla el flujo?	       ¿Para qué sirve?	                Ejemplos Web	           Ejemplos Móvil
+Librería	                Tú, el programador	         Funciones específicas	          jQuery, Axios	          Glide, Alamofire
+Framework	                  El framework	          Base para crear toda la app	      Angular, Vue, React	      Flutter, React Native
+Patrón de diseño	           No aplica	            Buena organización del código	        MVC, Singleton	        MVVM, Observer
 
-✅ Conclusión
+CONCLUSIÓN:
 Saber diferenciar entre librerías, frameworks y patrones de diseño es clave si queremos trabajar de forma eficiente y ordenada. Cada uno cumple una función distinta, y dependiendo del tipo de proyecto, nos conviene usar uno u otro. Esta base nos ayuda a tomar mejores decisiones como desarrolladores.
 
 ## 2) Conociendo Git
