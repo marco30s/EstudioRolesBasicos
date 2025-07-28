@@ -194,7 +194,23 @@ Sube tu app a la nube (Heroku, Vercel, Render, AWS).
 ## 7) Links recomendados para capacitación Rol Backend
 
 ## 8) Rol QA
-
+El Rol de QA (Quality Assurance): Garantizando la Calidad del Software
+QA o Quality Assurance (Aseguramiento de la Calidad) es una disciplina fundamental en el desarrollo de software que se encarga de garantizar que los productos cumplan con los estándares de calidad establecidos antes de llegar al usuario final.
+¿Qué hace un QA?
+Un profesional de QA actúa como el guardián de la calidad, siendo responsable de identificar defectos, inconsistencias y problemas de usabilidad en aplicaciones, sistemas web, móviles o software en general. Su trabajo va más allá de simplemente "encontrar bugs"; se trata de asegurar que el producto funcione correctamente bajo diferentes condiciones y escenarios.
+Responsabilidades Principales
+Planificación de Pruebas: Diseña estrategias de testing basadas en los requisitos del proyecto, creando casos de prueba detallados que cubran diferentes funcionalidades y escenarios de uso.
+Ejecución de Pruebas: Realiza pruebas manuales y automatizadas, verificando que cada componente del software opere según lo esperado. Esto incluye pruebas funcionales, de rendimiento, de seguridad y de usabilidad.
+Documentación: Registra detalladamente los defectos encontrados, proporcionando información precisa sobre cómo reproducir los problemas para facilitar su corrección por parte del equipo de desarrollo.
+Colaboración Cross-funcional: Trabaja estrechamente con desarrolladores, product managers y diseñadores para comprender los requisitos y asegurar que se implementen correctamente.
+Tipos de Pruebas que Realiza
+El QA maneja diferentes niveles de testing: pruebas unitarias (componentes individuales), pruebas de integración (interacción entre módulos), pruebas de sistema (funcionalidad completa) y pruebas de aceptación (validación final con criterios de negocio).
+También se especializa en pruebas específicas como testing de APIs, pruebas de regresión para verificar que nuevas funcionalidades no rompan las existentes, y pruebas de compatibilidad across diferentes navegadores, dispositivos y sistemas operativos.
+Herramientas y Metodologías
+Los profesionales de QA utilizan herramientas como Selenium, Cypress o Playwright para automatización, JIRA para gestión de defectos, y frameworks de testing específicos según la tecnología del proyecto. Trabajan dentro de metodologías ágiles como Scrum, participando en sprints y ceremonias del equipo.
+Impacto en el Negocio
+Un QA efectivo previene que bugs críticos lleguen a producción, lo que evita costos de corrección post-lanzamiento, protege la reputación de la empresa y mejora la experiencia del usuario. Su trabajo contribuye directamente a la confiabilidad del producto y la satisfacción del cliente.
+El rol de QA es esencial en cualquier equipo de desarrollo serio, actuando como una barrera de calidad que asegura que solo el software que cumple con los estándares establecidos llegue a los usuarios finales.
 ## 9) Links recomendados para capacitación Rol QA
 
 ## 10) Desarrollador Android
