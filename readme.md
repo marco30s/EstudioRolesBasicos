@@ -54,6 +54,14 @@ Describiremos cómo nos sirve localmente para poder versionar nuestro software.
 - Platzi: Rutas de aprendizaje completas (Escuela de Desarrollo Web, JavaScript, React.js). https://platzi.com/
     
 🔹 **Proyectos completos de ejemplo**:  
+- Frontend Mentor: Desafíos de diseño para codificar. https://www.frontendmentor.io/
+
+- GreatFrontEnd: Colección de desafíos de codificación y preguntas de entrevista. https://www.greatfrontend.com/
+
+- GitHub: Explora repositorios con proyectos ("awesome-frontend", "react-projects"). https://github.com/
+
+- CodePen: Entorno online para prototipar y compartir código. https://codepen.io/
+
 🔹 **Recomendadas por líderes (Microsoft, AWS, Google)**:  
 
 ## 6) Desarrollador Backend
