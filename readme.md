@@ -7,7 +7,7 @@ https://docs.github.com/es/get-started/start-your-journey/git-and-github-learnin
 
 1. Linares Taco Viviana Flobele - vlinares@unsa.edu.pe - Desarrollador Frontend
 2. Mendoza Larico Delaney Dariana - dmendozala@unsa.edu.pe - Desarrollador Frontend
-3. Martel Gallegos Alexandra - amartelg@unsa.edu.pe
+3. Martel Gallegos Alexandra - amartelg@unsa.edu.pe - Desarrollador Android
 4. Motta Medina, Brayan Teodoro - bmottam@unsa.edu.pe - Desarrollador Backend
 5. Molina soncco, Percy - pmolinaso@unsa.edu.pe
 6. Mendoza Taco David Jose Luis  - dmendozat@unsa.edu.pe - Desarrollador Backend
