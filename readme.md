@@ -287,48 +287,51 @@ El rol de QA es esencial en cualquier equipo de desarrollo serio, actuando como 
 ## 9) Links recomendados para capacitación Rol QA
 
 ## 10) Desarrollador Android
-¿Qué es?
+# ¿Qué es?
 
-Retos
+## Retos
 
-STACK DE TECNOLOGÍA
-1. Lenguaje de PROGRAMACIÓN
-Kotlin: Oficial y recomendado por Google.
-Java: Usado en proyectos antiguos.
+## STACK DE TECNOLOGÍA
 
-2. Entorno de Desarrollo (IDE)
-Android Studio: Completo, con emulador, depurador y herramientas de rendimiento.
+1. **Lenguaje de PROGRAMACIÓN**
+   **Kotlin**: Oficial y recomendado por Google.  
+   **Java**: Usado en proyectos antiguos.
 
-3. UI y Frameworks
-Jetpack Compose: Para crear interfaces modernas.
-ViewModel + LiveData: Manejo eficiente de estado y ciclo de vida.
+3. **Entorno de Desarrollo (IDE) Android Studio**:  
+   Completo, con emulador, depurador y herramientas de rendimiento.
 
-4. Base de Datos Local
-Room: Biblioteca moderna para persistencia local, parte de Jetpack.
+4. **UI y Frameworks Jetpack Compose**:  
+   Para crear interfaces modernas.  
+   **ViewModel + LiveData**: Manejo eficiente de estado y ciclo de vida.
 
-5. Consumo de APIs
-Retrofit + Kotlin Coroutines: Para llamadas HTTP y operaciones asíncronas.
+5. **Base de Datos Local Room**:  
+   Biblioteca moderna para persistencia local, parte de Jetpack.
 
-6. Control de Versiones
-Git + GitHub: Para gestionar código, historial y trabajo colaborativo.
+6. **Consumo de APIs Retrofit + Kotlin Coroutines**:  
+   Para llamadas HTTP y operaciones asíncronas.
 
-ESCALABILIDAD
-Arquitectura Limpia (Clean Architecture + MVVM)
-Separa lógica, interfaz y datos.
-Facilita el crecimiento sin romper otras partes del sistema.
+7. **Control de Versiones Git + GitHub**:  
+   Para gestionar código, historial y trabajo colaborativo.
 
-Modularización del Código
-Divide el proyecto en módulos independientes (UI, data, dominio).
+## ESCALABILIDAD
+
+**Arquitectura Limpia (Clean Architecture + MVVM)**  
+Separa lógica, interfaz y datos. Facilita el crecimiento sin romper otras partes del sistema.
+
+**Modularización del Código**
+
+Divide el proyecto en módulos independientes (**UI, data, dominio**).  
 Mejora el mantenimiento, pruebas y trabajo colaborativo.
 
-Inyección de Dependencias (Hilt)
-Gestiona objetos complejos de forma eficiente.
+**Inyección de Dependencias (Hilt)**
+
+Gestiona objetos complejos de forma eficiente.  
 Escalable para proyectos grandes.
 
-Jetpack Compose + Reutilización de Componentes
-UI declarativa, moderna y adaptable.
-Permite escalar la interfaz a múltiples dispositivos y diseños.
+**Jetpack Compose + Reutilización de Componentes UI**
 
+UI declarativa, moderna y adaptable.  
+Permite escalar la interfaz a múltiples dispositivos y diseños.
 
 
 
