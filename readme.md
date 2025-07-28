@@ -10,7 +10,7 @@ https://docs.github.com/es/get-started/start-your-journey/git-and-github-learnin
 3. Martel Gallegos Alexandra - amartelg@unsa.edu.pe
 4. Motta Medina, Brayan Teodoro - bmottam@unsa.edu.pe
 5. Molina soncco, Percy - pmolinaso@unsa.edu.pe
-6. David Jose Luis Mendoza Taco - dmendozat@unsa.edu.pe
+6. Mendoza Taco David Jose Luis  - dmendozat@unsa.edu.pe
 7. Quispe Balcon Martha Beatriz - mquispebal@unsa.edu.pe
 8. Valdivia Flores Manuel Djins - mvaldiviaf@unsa.edu.pe
 9. Cruz Kana Pamela Greis - pcruzk@unsa.edu.pe 
@@ -43,13 +43,54 @@ Cada commit incluye metadatos como el autor del cambio, la fecha y hora, y un me
 **Roles básicos en el desarrollo de aplicaciones web y aplicación móvil**
 
 ## 4) Desarrollador Frontend
-- Crea interfaces atractivas y responsivas (adaptables a distintos dispositivos), garantizar una buena experiencia de usuario (UX/UI), conectar con el backend mediante APIs para mostrar datos dinámicos, y optimizar el rendimiento y accesibilidad de la web. 
+☞ ¿De que se encarga?
+- Crea interfaces atractivas y responsivas (adaptables a distintos dispositivos), garantizar una buena experiencia de usuario (UX/UI), conectar con el backend mediante APIs para mostrar datos dinámicos, y optimizar el rendimiento y accesibilidad de la web.
+☞ Habilidades Requeridas: 
 - Se requiere conocimientos HTML5, CSS3, JavaScript (ES6+), React, Git, Responsive Design, APIs REST, Webpack, TypeScript, Testing (Jest/Cypress), Accesibilidad (WCAG).
-- Relación con roles de backend, QA, Desarrollador Android  
-- Stack tecnológico:  
-  - HTML,CSS,Java Script  
-  - Frameworks
-  - 
+■ Relación con Backend (datos):
+   El Frontend consume APIs (REST/GraphQL) proporcionadas por el Backend para mostrar datos dinámicos.
+   Ambos deben coordinarse en:
+   ➤ Estructura de datos (JSON/XML).
+   ➤ Autenticación (JWT, OAuth).
+   ➤ WebSockets (para comunicación en tiempo real).
+■ Relación con Android (experiencia móvil, si es un equipo multi-plataforma):
+   ➤ Si el equipo desarrolla una aplicación híbrida.
+   ➤ El Frontend y el Android pueden trabajar con el mismo código.
+   ➤ En proyectos separados (web + app nativa), ambos deben mantener consistencia en UX/UI (mismos colores, flujos, etc.).
+■ Relación con QA (calidad y coherencia):
+   ➤ Prueba la interfaz del Frontend (web) en busca de errores:
+   ➤ Funcionales: Botones que no responden, formularios rotos.
+   ➤ Rendimiento: Lentitud al cargar datos desde el Backend.
+☞ Stack tecnológico:  
+⍟ Lenguajes Base:
+   ⮡ HTML5 (Estructura).
+   ⮡ CSS3 (Estilos) + Sass/Less (Preprocesadores).
+   ⮡ JavaScript (Lógica) + TypeScript (Tipado estático).
+
+⍟ Frameworks/Librerías Principales:
+   ⮡ React.js (Meta) + Next.js (SSR/SSG).
+   ⮡ Vue.js + Nuxt.js.
+   ⮡ Angular (Google, para aplicaciones empresariales).
+   ⮡ Svelte/SvelteKit (En auge por su enfoque sin Virtual DOM).
+
+⍟ Gestión de Estado:
+   ⮡ Redux (React) / Pinia (Vue) / NgRx (Angular).
+   ⮡ Context API (React) / Zustand (Alternativa ligera a Redux).
+
+⍟ Estilización:
+   ⮡ Tailwind CSS (Utility-first) / CSS Modules.
+   ⮡ Styled Components (CSS-in-JS).
+   ⮡ Bootstrap/Material UI (Componentes preconstruidos).
+
+⍟ Herramientas de Desarrollo:
+   ⮡ Vite (Bundler rápido, alternativa a Webpack).
+   ⮡ npm/yarn/pnpm (Gestión de paquetes).
+   ⮡ ESLint/Prettier (Linting y formateo).
+
+⍟ Testing:
+   ⮡ Jest (Unit testing).
+   ⮡ Cypress/Playwright (E2E testing).
+   ⮡ React Testing Library (Para componentes React).
 
 ## 5) Links recomendados para capacitación Rol Frontend
 *(Separados por criterios)*  
