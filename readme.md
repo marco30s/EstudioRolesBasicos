@@ -42,7 +42,15 @@ Describiremos cómo nos sirve localmente para poder versionar nuestro software.
 ## 5) Links recomendados para capacitación Rol Frontend
 *(Separados por criterios)*  
 🔹 **Sin certificaciones**:  
-- freeCodeCamp https://www.freecodecamp.org/
+- MDN Web Docs: La referencia oficial para HTML, CSS, JavaScript. Imprescindible. https://developer.mozilla.org/en-US/docs/Web
+
+- freeCodeCamp: Cursos interactivos y proyectos prácticos. https://www.freecodecamp.org/
+
+- The Odin Project: Currículo completo y basado en proyectos. https://www.theodinproject.com/
+
+- CSS-Tricks: Blog y recursos detallados sobre CSS y web. https://css-tricks.com/
+
+- JavaScript.info: Tutorial exhaustivo de JavaScript. https://javascript.info/
     
 🔹 **Con certificación**:  
 - Coursera: Cursos y especializaciones de universidades/empresas (ej: Meta Front-End Developer). https://www.coursera.org/
