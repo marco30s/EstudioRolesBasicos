@@ -48,48 +48,81 @@ Cada commit incluye metadatos como el autor del cambio, la fecha y hora, y un me
 ☞ Habilidades Requeridas: 
 - Se requiere conocimientos HTML5, CSS3, JavaScript (ES6+), React, Git, Responsive Design, APIs REST, Webpack, TypeScript, Testing (Jest/Cypress), Accesibilidad (WCAG).
 ■ Relación con Backend (datos):
+
    El Frontend consume APIs (REST/GraphQL) proporcionadas por el Backend para mostrar datos dinámicos.
+  
    Ambos deben coordinarse en:
+  
    ➤ Estructura de datos (JSON/XML).
+  
    ➤ Autenticación (JWT, OAuth).
+  
    ➤ WebSockets (para comunicación en tiempo real).
+  
 ■ Relación con Android (experiencia móvil, si es un equipo multi-plataforma):
+
    ➤ Si el equipo desarrolla una aplicación híbrida.
+   
    ➤ El Frontend y el Android pueden trabajar con el mismo código.
+   
    ➤ En proyectos separados (web + app nativa), ambos deben mantener consistencia en UX/UI (mismos colores, flujos, etc.).
+   
 ■ Relación con QA (calidad y coherencia):
+
    ➤ Prueba la interfaz del Frontend (web) en busca de errores:
+   
    ➤ Funcionales: Botones que no responden, formularios rotos.
+   
    ➤ Rendimiento: Lentitud al cargar datos desde el Backend.
+   
 ☞ Stack tecnológico:  
+
 ⍟ Lenguajes Base:
+
    ⮡ HTML5 (Estructura).
+   
    ⮡ CSS3 (Estilos) + Sass/Less (Preprocesadores).
+   
    ⮡ JavaScript (Lógica) + TypeScript (Tipado estático).
 
 ⍟ Frameworks/Librerías Principales:
+
    ⮡ React.js (Meta) + Next.js (SSR/SSG).
+   
    ⮡ Vue.js + Nuxt.js.
+   
    ⮡ Angular (Google, para aplicaciones empresariales).
+   
    ⮡ Svelte/SvelteKit (En auge por su enfoque sin Virtual DOM).
 
 ⍟ Gestión de Estado:
+
    ⮡ Redux (React) / Pinia (Vue) / NgRx (Angular).
+   
    ⮡ Context API (React) / Zustand (Alternativa ligera a Redux).
 
 ⍟ Estilización:
+
    ⮡ Tailwind CSS (Utility-first) / CSS Modules.
+   
    ⮡ Styled Components (CSS-in-JS).
+   
    ⮡ Bootstrap/Material UI (Componentes preconstruidos).
 
 ⍟ Herramientas de Desarrollo:
+
    ⮡ Vite (Bundler rápido, alternativa a Webpack).
+   
    ⮡ npm/yarn/pnpm (Gestión de paquetes).
+   
    ⮡ ESLint/Prettier (Linting y formateo).
 
 ⍟ Testing:
+
    ⮡ Jest (Unit testing).
+   
    ⮡ Cypress/Playwright (E2E testing).
+   
    ⮡ React Testing Library (Para componentes React).
 
 ## 5) Links recomendados para capacitación Rol Frontend
